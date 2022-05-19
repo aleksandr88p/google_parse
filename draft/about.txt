@@ -1,0 +1,22 @@
+1**********
+python3.9 -m venv venv
+source venv/bin/activate
+
+2**********
+pip install bs4
+pip install urllib3
+pip install requests
+pip install html5lib
+
+
+
+SHARED KAZAN
+Прокси HOST:PORTdiana.ltespace.com:16548
+Прокси IP:PORT 92.255.253.185:16548
+Логин1xe71qbv
+Пароль1doac1s8
+ТипHTTPS
+Ротация5 мин
+
+
+{'https': 'https://1xe71qbv:1doac1s8@92.255.253.185:16548'}
